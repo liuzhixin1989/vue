@@ -8,4 +8,12 @@ a{
 }
 ul,ol,li{
     list-style: none;
+    padding: 0;
+    margin:0;
 }
+input{
+    height: 26px;
+    border:none;
+    border-radius: 5px;
+    text-indent:5px;
+  }
