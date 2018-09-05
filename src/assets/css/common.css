@@ -1,0 +1,11 @@
+/* 公共的csss */
+html,body{
+    margin:0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol,li{
+    list-style: none;
+}
